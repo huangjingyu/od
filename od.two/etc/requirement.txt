@@ -1,0 +1,20 @@
+Job Description
+Here's a list of 800 podcasts: http://www.npr.org/rss/podcast/podcast_directory.php?type=title&value=all. 
+I need the following items extracted from this page:
+1) Title of each feed
+2) Provider
+3) RSS feed URL of each feed. If you click into the link on each Title, 
+there should be a link to the XML file of the RSS feed (see the orange POD icon). I need this URL
+4) most recent PubDate. If you view the source of the RSS feed XML, 
+you will see a <pubDate> field. I need the first (most recent) date. If there is no <pubDate> field, please extract the <lastBuildDate>.
+
+You should be able to write a script to scrape the page and extract each field. 
+There is some trickiness because some feeds require clicking on another link to reach the RSS feed URL (the one in XML format), 
+so you have to make sure that you reach the page that gives the PubDate.
+
+As an output, please send me an Excel spreadsheet with each feed as a separate row and the columns are Title, 
+Provider, RSS Feed URL, and Most Recent Publication/Build Date.
+
+For example, the first one should be "Poverty with a View", "KNAU", "http://feeds.feedburner.com/knaupodcast", "Thu, 21 Apr 2011 20:40:57 PDT".
+
+This task must be completed by no later than 12:00pm Pacific time on Tuesday, February 7 in order to receive positive feedback. Thanks! 

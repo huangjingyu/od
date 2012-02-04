@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Poverty with a View</title>
+		<link>http://knau.blogspot.com/</link>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom"
+			rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/knaupodcast" />
+		<description></description>
+		<language>en</language>
+		<managingEditor>noreply@blogger.com (Daniel Kraker)</managingEditor>
+		<lastBuildDate>Thu, 21 Apr 2011 20:40:57 PDT</lastBuildDate>
+		<generator>Blogger http://www.blogger.com</generator>
+		<openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">0</openSearch:totalResults>
+		<openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex>
+		<openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">25</openSearch:itemsPerPage>
+		<feedburner:info uri="knaupodcast" />
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom"
+			rel="hub" href="http://pubsubhubbub.appspot.com/" />
+		<copyright>Copyright 2005, Arizona Public Radio</copyright>
+		<media:credit role="author">Mitch Teich</media:credit>
+		<media:copyright>Copyright 2005, Arizona Public Radio</media:copyright>
+		<media:rating>nonadult</media:rating>
+		<media:thumbnail url="www.knau.org/Pages/KNAUlogo.JPG" />
+		<media:keywords>public radio news</media:keywords>
+		<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Public Radio</media:category>
+		<itunes:owner>
+			<itunes:email>noreply@blogger.com</itunes:email>
+			<itunes:name>Mitch Teich</itunes:name>
+		</itunes:owner>
+		<itunes:author>Mitch Teich</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="www.knau.org/Pages/KNAUlogo.JPG" />
+		<itunes:keywords>public radio news</itunes:keywords>
+		<itunes:subtitle>Archived news stories and special programs from the
+			newsroom at Arizona Public Radio.</itunes:subtitle>
+		<itunes:summary>Archived news stories and special programs from the
+			newsroom at Arizona Public Radio.</itunes:summary>
+		<itunes:category text="Public Radio" />
+		<feedburner:browserFriendly>This is an XML content feed. It is
+			intended to be viewed in a newsreader or syndicated to another site,
+			subject to copyright and fair use.</feedburner:browserFriendly>
+	</channel>
+</rss>
